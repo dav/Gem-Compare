@@ -1,0 +1,4 @@
+h1. Gem Compare
+
+Gem Compare is a simple ruby script that backticks to ssh to grab gem list info from 
+1-2 servers and then output a comparison.
